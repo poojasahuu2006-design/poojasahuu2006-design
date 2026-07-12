@@ -1,62 +1,39 @@
 # Hi there, I'm Pooja Sahu 👋
 
-- 🎓 B.Tech in IT student at **St. John College of Engineering and Management** (CGPA: 10.0).
-- 💻 Former Frontend Web Developer Intern at **Cognifyz Technologies**.
-- 🚀 Passionate about **Backend Architecture, Scalable Systems, and Distributed Computing**.
-- 🏆 Active Hackathon participant (SIH & GDG) and PR Member for ITSA.
-- 💬 Ask me about **REST APIs, Node.js, Databases, and Application Architecture**.
+- 💻 2nd-year IT student passionate about tech, backend architecture, and coding.
+- 🎓 B.Tech in IT at St. John College of Engineering and Management (CGPA: 10.0).
+- 🚀 Former Frontend Web Developer Intern at Cognifyz Technologies. Exploring innovative projects.
 
 ---
 
-## 🚀 My Projects & Live Previews
+# 🚀 My Projects & Live Previews
 
-### 🔥 Advanced Projects (Backend & Systems)
-
-| Project Name | Description | Links |
+### 🔴 Hard Projects
+| Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Banking Transaction Ledger** | Production-ready banking transaction backend featuring a double-entry ledger architecture, MongoDB ACID transactions, secure REST APIs, and reliable session-based transaction handling. | [GitHub Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) |
-| **Distributed Job Queue System** | Robust backend job queuing system utilizing Redis for queue management, implementing reliable worker logic, job dependencies, and exponential backoff strategies. | [GitHub Repo](https://github.com/poojasahuu2006-design/redis-job-queue-backend-) |
-| **Advanced Rate Limiter API** | High-performance API rate limiter implementing Token Bucket and Sliding Window algorithms to mitigate attacks and handle high concurrent requests. | [GitHub Repo](https://github.com/poojasahuu2006-design/backend-rate-limiter) |
-| **Realtime Tracker** | Web application built with Node.js, Socket.IO, and Leaflet.js that provides live location updates on an interactive map using WebSockets. | [GitHub Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) |
+| **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) |
+| **Distributed_Job_Queue** | Robust backend job queuing system utilizing **Redis for queue management**, implementing **reliable worker logic**, **job dependencies**, and **exponential backoff strategies**. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/redis-job-queue-backend-) |
+| **Backend_Rate_Limiter** | High-performance API rate limiter implementing **Token Bucket and Sliding Window algorithms** to mitigate attacks and handle high concurrent requests. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/backend-rate-limiter) |
 
-### ⚡ Intermediate Projects (Full-Stack & React)
-
-| Project Name | Description | Links |
+### 🟡 Intermediate Projects
+| Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Beautify (Full-Stack)** | Full-stack web application built with a modern frontend and a Node.js + Express backend, connected to MongoDB Atlas for cloud database management. | [GitHub Repo](https://github.com/poojasahuu2006-design/beautify) |
-| **NOID - ID Card Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [GitHub Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
-| **React Colour Switcher** | Interactive React application utilizing `useState` hooks for dynamic, real-time UI updates. | [GitHub Repo](https://github.com/poojasahuu2006-design/Colour_Switcher_React) |
-| **React User Card** | React frontend application constructed with Vite, utilizing modern, highly reusable component architecture. | [GitHub Repo](https://github.com/poojasahuu2006-design/Card) |
+| **NOID_ID_Card_Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [View Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
+| **Realtime_Tracker** | Web application built with **Node.js**, **Socket.IO**, and **Leaflet.js** that provides live location updates on an interactive map using WebSockets. | [View Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) |
+| **Beautify_Full_Stack** | Full-stack web application built with a modern frontend and a **Node.js + Express backend**, connected to **MongoDB Atlas** for cloud database management. | [View Repo](https://github.com/poojasahuu2006-design/beautify) |
+| **React_Dynamic_Apps** | Various interactive React frontend applications constructed with **Vite**, utilizing **useState** hooks and modern, highly reusable component architecture. | [View Repo](https://github.com/poojasahuu2006-design/Colour_Switcher_React) |
 
-### 🌱 Frontend & JavaScript Mini-Projects
-
-| Category | Projects (Click to View Source) | Tech Stack |
+### 🟢 Easy Projects
+| Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **UI Clones** | 🛒 [Amazon Homepage Clone](https://github.com/poojasahuu2006-design/amazon-clone-html-css) | HTML, CSS |
-| **Interactive Games** | 🎮 [Tic-Tac-Toe](https://github.com/poojasahuu2006-design/Tiktactoegame) <br> ✊ [Stone-Paper-Scissors](https://github.com/poojasahuu2006-design/stone-paper-scissorsgame) <br> 🎯 [Number Shooter](https://github.com/poojasahuu2006-design/Numbershooter) | HTML, CSS, JS |
-| **JS Utilities** | 📝 [To-Do List](https://github.com/poojasahuu2006-design/To-do-list) <br> 🔍 [Real-Time User Search](https://github.com/poojasahuu2006-design/Searchinjs) <br> 🪟 [Modal Popup Component](https://github.com/poojasahuu2006-design/javascript-modal-popup) <br> 🎨 [Colour Changer](https://github.com/poojasahuu2006-design/colourchanger) <br> 🧮 [Interactive Calculators](https://github.com/poojasahuu2006-design/calculator) | HTML, CSS, JS |
+| **Classic Web Games** | Simple and interactive web games including **Tic-Tac-Toe**, **Stone-Paper-Scissors**, and **Number Shooter** built with HTML, CSS, and JavaScript. | [View Repo](https://github.com/poojasahuu2006-design/Tiktactoegame) |
+| **Amazon_Homepage_Clone** | Frontend clone of the Amazon homepage, created using pure **HTML and CSS** to recreate modern e-commerce layouts. | [View Repo](https://github.com/poojasahuu2006-design/amazon-clone-html-css) |
+| **JS_Utilities** | A collection of utility web applications including **Real-time User Search**, **Calculators**, **Colour Changer**, and **To-Do Lists** to practice DOM manipulation. | [View Repo](https://github.com/poojasahuu2006-design/Searchinjs) |
 
----
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 Author
+**Pooja Sahu**
+- [GitHub](https://github.com/poojasahuu2006-design)
+- [LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="mailto:poojasahuu2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/pooja-sahu-b6a93b370"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370) | [Email](mailto:poojasahuu2006@gmail.com)
