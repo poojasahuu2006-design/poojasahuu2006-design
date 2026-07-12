@@ -1,8 +1,9 @@
 # Hi there, I'm Pooja Sahu 👋
 
-- 💻 2nd-year IT student passionate about tech, backend architecture, and coding.
+- 💻 **3rd-year IT student** specializing in **Full Stack Development**.
 - 🎓 B.Tech in IT at St. John College of Engineering and Management (CGPA: 10.0).
-- 🚀 Former Frontend Web Developer Intern at Cognifyz Technologies. Exploring innovative projects.
+- 🛠️ **Tech Knowledge:** Proficient in the **MERN Stack** (MongoDB, Express, React, Node.js), **Python**, **C++**, **Java**, and **Redis**. 
+- 🚀 Former Frontend Web Developer Intern at Cognifyz Technologies. Exploring innovative scalable architectures.
 
 ---
 
@@ -36,4 +37,4 @@
 - [GitHub](https://github.com/poojasahuu2006-design)
 - [LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370)
 
-[LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370) | [Email](mailto:poojasahuu2006@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=poojasahuu2006@gmail.com)
