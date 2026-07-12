@@ -10,20 +10,31 @@
 
 ## 🚀 My Projects & Live Previews
 
-### 🔥 Advanced Projects
+### 🔥 Advanced Projects (Backend & Systems)
 
 | Project Name | Description | Links |
 | :--- | :--- | :--- |
 | **Banking Transaction Ledger** | Production-ready banking transaction backend featuring a double-entry ledger architecture, MongoDB ACID transactions, secure REST APIs, and reliable session-based transaction handling. | [GitHub Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) |
 | **Distributed Job Queue System** | Robust backend job queuing system utilizing Redis for queue management, implementing reliable worker logic, job dependencies, and exponential backoff strategies. | [GitHub Repo](https://github.com/poojasahuu2006-design/redis-job-queue-backend-) |
 | **Advanced Rate Limiter API** | High-performance API rate limiter implementing Token Bucket and Sliding Window algorithms to mitigate attacks and handle high concurrent requests. | [GitHub Repo](https://github.com/poojasahuu2006-design/backend-rate-limiter) |
+| **Realtime Tracker** | Web application built with Node.js, Socket.IO, and Leaflet.js that provides live location updates on an interactive map using WebSockets. | [GitHub Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) |
 
-### ⚡ Intermediate Projects
+### ⚡ Intermediate Projects (Full-Stack & React)
 
 | Project Name | Description | Links |
 | :--- | :--- | :--- |
+| **Beautify (Full-Stack)** | Full-stack web application built with a modern frontend and a Node.js + Express backend, connected to MongoDB Atlas for cloud database management. | [GitHub Repo](https://github.com/poojasahuu2006-design/beautify) |
 | **NOID - ID Card Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [GitHub Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
-| **Realtime Tracker** | Web application built with Node.js, Socket.IO, and Leaflet.js that provides live location updates on an interactive map using WebSockets. | [GitHub Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) |
+| **React Colour Switcher** | Interactive React application utilizing `useState` hooks for dynamic, real-time UI updates. | [GitHub Repo](https://github.com/poojasahuu2006-design/Colour_Switcher_React) |
+| **React User Card** | React frontend application constructed with Vite, utilizing modern, highly reusable component architecture. | [GitHub Repo](https://github.com/poojasahuu2006-design/Card) |
+
+### 🌱 Frontend & JavaScript Mini-Projects
+
+| Category | Projects (Click to View Source) | Tech Stack |
+| :--- | :--- | :--- |
+| **UI Clones** | 🛒 [Amazon Homepage Clone](https://github.com/poojasahuu2006-design/amazon-clone-html-css) | HTML, CSS |
+| **Interactive Games** | 🎮 [Tic-Tac-Toe](https://github.com/poojasahuu2006-design/Tiktactoegame) <br> ✊ [Stone-Paper-Scissors](https://github.com/poojasahuu2006-design/stone-paper-scissorsgame) <br> 🎯 [Number Shooter](https://github.com/poojasahuu2006-design/Numbershooter) | HTML, CSS, JS |
+| **JS Utilities** | 📝 [To-Do List](https://github.com/poojasahuu2006-design/To-do-list) <br> 🔍 [Real-Time User Search](https://github.com/poojasahuu2006-design/Searchinjs) <br> 🪟 [Modal Popup Component](https://github.com/poojasahuu2006-design/javascript-modal-popup) <br> 🎨 [Colour Changer](https://github.com/poojasahuu2006-design/colourchanger) <br> 🧮 [Interactive Calculators](https://github.com/poojasahuu2006-design/calculator) | HTML, CSS, JS |
 
 ---
 
@@ -47,5 +58,5 @@
 
 <p align="left">
   <a href="mailto:poojasahuu2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/pooja-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pooja-sahu-b6a93b370"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
