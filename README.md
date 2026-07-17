@@ -15,6 +15,11 @@
 | **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) |
 | **Distributed_Job_Queue** | Robust backend job queuing system utilizing **Redis for queue management**, implementing **reliable worker logic**, **job dependencies**, and **exponential backoff strategies**. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/redis-job-queue-backend-) |
 | **Backend_Rate_Limiter** | High-performance API rate limiter implementing **Token Bucket and Sliding Window algorithms** to mitigate attacks and handle high concurrent requests. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/backend-rate-limiter) |
+**[Real-Time Collaborative Sync Engine](link-to-your-repo-here)**  
+*A Google Docs-style real-time collaborative document editor backend.*
+- **What it does:** Built a custom Operational Transformation (OT) algorithm from scratch to mathematically prevent data loss when multiple users type concurrently. Includes a full REST API with Swagger documentation and a real-time Socket.io engine.
+- **Tech Stack:** Node.js, Express.js, MongoDB, Socket.io, Swagger
+- **Advanced Skills Showcased:** Distributed Systems (Operational Transformation), WebSocket connections, ACID Database Transactions, Offline Syncing.
 
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
