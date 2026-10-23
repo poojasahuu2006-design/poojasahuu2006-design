@@ -32,9 +32,15 @@
 ### 🟢 Easy Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Classic Web Games** | Simple and interactive web games including **Tic-Tac-Toe**, **Stone-Paper-Scissors**, and **Number Shooter** built with HTML, CSS, and JavaScript. | [View Repo](https://github.com/poojasahuu2006-design/Tiktactoegame) |
-| **Amazon_Homepage_Clone** | Frontend clone of the Amazon homepage, created using pure **HTML and CSS** to recreate modern e-commerce layouts. | [View Repo](https://github.com/poojasahuu2006-design/amazon-clone-html-css) |
-| **JS_Utilities** | A collection of utility web applications including **Real-time User Search**, **Calculators**, **Colour Changer**, and **To-Do Lists** to practice DOM manipulation. | [View Repo](https://github.com/poojasahuu2006-design/Searchinjs) |
+| **Tic_Tac_Toe_Game** | Simple and interactive 2-player Tic-Tac-Toe web game detecting wins and draws with responsive gameplay. | [View Repo](https://github.com/poojasahuu2006-design/Tiktactoegame) · [Live Demo](https://tiktactoegamepooja.netlify.app/) |
+| **Stone_Paper_Scissors** | Interactive game against computer AI featuring real-time score updates and clean mobile-friendly UI. | [View Repo](https://github.com/poojasahuu2006-design/stone-paper-scissorsgame) · [Live Demo](https://stone-paper-scissors-gamepooja.netlify.app/) |
+| **Number_Shooter** | Fast-paced number shooting web game where players match randomized targets under countdown timer pressure. | [View Repo](https://github.com/poojasahuu2006-design/Numbershooter) · [Live Demo](https://number-shooters.netlify.app/) |
+| **Amazon_Homepage_Clone** | Pixel-perfect responsive frontend clone of the Amazon homepage, built with pure **HTML5 and CSS3**. | [View Repo](https://github.com/poojasahuu2006-design/amazon-clone-html-css) · [Live Demo](https://amazonprojectdeployed.netlify.app/) |
+| **Realtime_User_Search** | Dynamic user directory application with instant real-time client-side search filtering by name and email. | [View Repo](https://github.com/poojasahuu2006-design/Searchinjs) · [Live Demo](https://searchproject2js.netlify.app/) |
+| **Colour_Changer** | Interactive background color changer supporting direct hex input and one-click random color generation. | [View Repo](https://github.com/poojasahuu2006-design/colourchanger) · [Live Demo](https://colourchangerfirstjs.netlify.app/) |
+| **Interactive_Modal_DOM** | Responsive modal popup demonstrating DOM manipulation, event bubbling control, and full-screen backdrop overlay. | [View Repo](https://github.com/poojasahuu2006-design/javascript-modal-popup) · [Live Demo](https://domproject-1.netlify.app/) |
+| **Responsive_Calculator** | Clean arithmetic web calculator handling basic mathematical operations with backspace and clear functionality. | [View Repo](https://github.com/poojasahuu2006-design/calculatorp4) · [Live Demo](https://calculatorproject4.netlify.app/) |
+| **Faulty_Calculator_App** | Web-based calculator performing intentional faulty arithmetic operations with random logic checks for learning. | [View Repo](https://github.com/poojasahuu2006-design/calculator) · [Live Demo](https://basic-calculatorvhbkj.netlify.app/) · [Mirror 1](https://ourclci.netlify.app/) · [Mirror 2](https://sigmacalci.netlify.app/) |
 
 
 ## 🧑💻 Author
