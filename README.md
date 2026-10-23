@@ -40,7 +40,7 @@
 | **Colour_Changer** | Interactive background color changer supporting direct hex input and one-click random color generation. | [View Repo](https://github.com/poojasahuu2006-design/colourchanger) · [Live Demo](https://colourchangerfirstjs.netlify.app/) |
 | **Interactive_Modal_DOM** | Responsive modal popup demonstrating DOM manipulation, event bubbling control, and full-screen backdrop overlay. | [View Repo](https://github.com/poojasahuu2006-design/javascript-modal-popup) · [Live Demo](https://domproject-1.netlify.app/) |
 | **Responsive_Calculator** | Clean arithmetic web calculator handling basic mathematical operations with backspace and clear functionality. | [View Repo](https://github.com/poojasahuu2006-design/calculatorp4) · [Live Demo](https://calculatorproject4.netlify.app/) |
-| **Faulty_Calculator_App** | Web-based calculator performing intentional faulty arithmetic operations with random logic checks for learning. | [View Repo](https://github.com/poojasahuu2006-design/calculator) · [Live Demo](https://basic-calculatorvhbkj.netlify.app/) · [Mirror 1](https://ourclci.netlify.app/) · [Mirror 2](https://sigmacalci.netlify.app/) |
+| **Faulty_Calculator_App** | Web-based calculator performing intentional faulty arithmetic operations with random logic checks for learning. | [View Repo](https://github.com/poojasahuu2006-design/calculator) · [Live Demo](https://basic-calculatorvhbkj.netlify.app/) |
 
 
 ## 🧑💻 Author
