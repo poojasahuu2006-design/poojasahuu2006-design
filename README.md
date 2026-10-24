@@ -25,7 +25,6 @@
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **NOID_ID_Card_Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [View Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
 | **Realtime_Tracker** | Web application built with **Node.js**, **Socket.IO**, and **Leaflet.js** that provides live location updates on an interactive map using WebSockets. | [View Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) · [Live Demo](https://realtime-tracker-mnfs.onrender.com/) |
 | **Beautify_Full_Stack** | Full-stack luxury boutique web app built with **React 18, Vite, Node.js, Express**, and **MongoDB Atlas** with cloud database management. | [View Repo](https://github.com/poojasahuu2006-design/beautify) · [Live Demo](https://beautify-frontend-7bq9.onrender.com/login) |
 | **Colour_Switcher_React** | Interactive dynamic color switcher application constructed with **React** and **Vite**, utilizing **useState** hooks and modern, highly reusable component architecture. | [View Repo](https://github.com/poojasahuu2006-design/Colour_Switcher_React) · [Live Demo](https://colour-switcher-react.vercel.app/) |
