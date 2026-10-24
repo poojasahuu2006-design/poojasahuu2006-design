@@ -25,7 +25,8 @@
 
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
-| :--- | :--- | :--- |
+| **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) · [Live Demo](https://backend-bank-transaction-1.onrender.com/api-docs) |
+
 | **NOID_ID_Card_Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [View Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
 | **Realtime_Tracker** | Web application built with **Node.js**, **Socket.IO**, and **Leaflet.js** that provides live location updates on an interactive map using WebSockets. | [View Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) · [Live Demo](https://realtime-tracker-mnfs.onrender.com/) |
 | **Beautify_Full_Stack** | Full-stack web application built with a modern frontend and a **Node.js + Express backend**, connected to **MongoDB Atlas** for cloud database management. | [View Repo](https://github.com/poojasahuu2006-design/beautify) |
