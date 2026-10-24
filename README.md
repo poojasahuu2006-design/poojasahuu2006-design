@@ -17,16 +17,14 @@
 | **WhatsApp_AI_Buddy** | Production-grade autonomous WhatsApp AI Agent & Cloud CRM SaaS. Features **sub-second AI replies**, **Google Calendar auto-booking**, live multi-device **Baileys WebSocket gateway**, real-time contact synchronization, and **MongoDB Atlas** persistence. | [View Repo](https://github.com/poojasahuu2006-design/whatsapp-buddy-web) · [Live Demo](https://whatsapp-buddy-539k.onrender.com/) |
 | **AI_House_Planner** | Intelligent 2D/3D architectural layout and floor plan generator built with **React**, **Three.js**, **Node.js**, **Express**, and **MongoDB Atlas**. | [View Repo](https://github.com/poojasahuu2006-design/AI_LAYOUT_GENERATOR) · [Live Demo](https://ai-house-planner-frontend.onrender.com/) |
 | **RAID_Storage_Simulator** | High-performance interactive simulator visualizing **RAID (0, 1, 5, 6, 10)** storage architectures, data striping, parity distribution, drive rebuilds, and fault tolerance. | [View Repo](https://github.com/poojasahuu2006-design/Raid_Simulator) · [Live Demo](https://raid-sim-v1.surge.sh/) |
- | **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) · [Live Demo](https://backend-bank-transaction-1.onrender.com/api-docs) |
-
+| **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) · [Live Demo](https://backend-bank-transaction-1.onrender.com/api-docs) |
 | **Distributed_Job_Queue** | Robust backend job queuing system utilizing **Redis for queue management**, implementing **reliable worker logic**, **job dependencies**, and **exponential backoff strategies**. **Backend only** — Tested using Postman. | [View Repo](https://github.com/poojasahuu2006-design/redis-job-queue-backend-) |
 | **Backend_Rate_Limiter** | High-performance API rate limiter implementing **Token Bucket and Sliding Window algorithms** to mitigate attacks and handle high concurrent requests. Tested using Postman and Swagger. | [View Repo](https://github.com/poojasahuu2006-design/backend-rate-limiter) · [Live Demo (Swagger)](https://rate-limiter-lfpe.onrender.com/api-docs/) |
 | **Real-Time_Collaborative_Engine** | A Google Docs-style real-time collaborative document editor backend. Built a custom **Operational Transformation (OT)** algorithm to mathematically prevent data loss during concurrent typing. Showcases **WebSockets**, **ACID Transactions**, and **Swagger APIs**. | [View Repo](https://github.com/poojasahuu2006-design/Real-Time-Collaborative-Sync-Engine) · [Live Demo (Swagger)](https://real-time-collaborative-sync-engine.onrender.com/api-docs/) |
 
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
-| **Banking_Transaction_Ledger** | Production-ready banking transaction backend featuring **double-entry ledger architecture**, **MongoDB ACID transactions**, **secure REST APIs**, and **session-based transaction handling**. | [View Repo](https://github.com/poojasahuu2006-design/Backend_Bank_transaction) · [Live Demo](https://backend-bank-transaction-1.onrender.com/api-docs) |
-
+| :--- | :--- | :--- |
 | **NOID_ID_Card_Generator** | Platform that dynamically generates customizable digital ID cards based on real-time user inputs without requiring a payment gateway. | [View Repo](https://github.com/poojasahuu2006-design/NOIDwithoutpayment) |
 | **Realtime_Tracker** | Web application built with **Node.js**, **Socket.IO**, and **Leaflet.js** that provides live location updates on an interactive map using WebSockets. | [View Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) · [Live Demo](https://realtime-tracker-mnfs.onrender.com/) |
 | **Beautify_Full_Stack** | Full-stack web application built with a modern frontend and a **Node.js + Express backend**, connected to **MongoDB Atlas** for cloud database management. | [View Repo](https://github.com/poojasahuu2006-design/beautify) |
@@ -47,7 +45,7 @@
 | **Faulty_Calculator_App** | Web-based calculator performing intentional faulty arithmetic operations with random logic checks for learning. | [View Repo](https://github.com/poojasahuu2006-design/calculator) · [Live Demo](https://basic-calculatorvhbkj.netlify.app/) |
 
 
-## 🧑💻 Author
+## 🧑‍💻 Author
 **Pooja Sahu**
 - [GitHub](https://github.com/poojasahuu2006-design)
 - [LinkedIn](https://www.linkedin.com/in/pooja-sahu-b6a93b370)
