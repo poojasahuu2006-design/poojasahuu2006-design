@@ -14,6 +14,7 @@
 ### 🔴 Hard Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
+| **Interview_AI_Platform** | Production-grade AI-powered interview preparation platform. Analyzes candidate resumes and job descriptions using **Google Gemini**, delivers instant **Match Scores**, tailored **Technical & Behavioral Q&A banks**, customized study roadmaps, and generates print-ready **1-2 page ATS Resumes**. Features **dual-token authentication**, multi-model failover, and cloud deployment on **Cloudflare Pages** & **Render**. | [View Repo](https://github.com/poojasahuu2006-design/Interview-ai-platform) · [Live Demo](https://interview-ai-p.pages.dev/login) |
 | **WhatsApp_AI_Buddy** | Production-grade autonomous WhatsApp AI Agent & Cloud CRM SaaS. Features **sub-second AI replies**, **Google Calendar auto-booking**, live multi-device **Baileys WebSocket gateway**, real-time contact synchronization, and **MongoDB Atlas** persistence. | [View Repo](https://github.com/poojasahuu2006-design/whatsapp-buddy-web) · [Live Demo](https://whatsapp-buddy-539k.onrender.com/) |
 | **AI_House_Planner** | Intelligent 2D/3D architectural layout and floor plan generator built with **React**, **Three.js**, **Node.js**, **Express**, and **MongoDB Atlas**. | [View Repo](https://github.com/poojasahuu2006-design/AI_LAYOUT_GENERATOR) · [Live Demo](https://ai-house-planner-frontend.onrender.com/) |
 | **RAID_Storage_Simulator** | High-performance interactive simulator visualizing **RAID (0, 1, 5, 6, 10)** storage architectures, data striping, parity distribution, drive rebuilds, and fault tolerance. | [View Repo](https://github.com/poojasahuu2006-design/Raid_Simulator) · [Live Demo](https://raid-sim-v1.surge.sh/) |
@@ -42,7 +43,6 @@
 | **Interactive_Modal_DOM** | Responsive modal popup demonstrating DOM manipulation, event bubbling control, and full-screen backdrop overlay. | [View Repo](https://github.com/poojasahuu2006-design/javascript-modal-popup) · [Live Demo](https://domproject-1.netlify.app/) |
 | **Responsive_Calculator** | Clean arithmetic web calculator handling basic mathematical operations with backspace and clear functionality. | [View Repo](https://github.com/poojasahuu2006-design/calculatorp4) · [Live Demo](https://calculatorproject4.netlify.app/) |
 | **Faulty_Calculator_App** | Web-based calculator performing intentional faulty arithmetic operations with random logic checks for learning. | [View Repo](https://github.com/poojasahuu2006-design/calculator) · [Live Demo](https://basic-calculatorvhbkj.netlify.app/) |
-
 
 ## 🧑‍💻 Author
 **Pooja Sahu**
