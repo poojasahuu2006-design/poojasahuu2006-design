@@ -14,7 +14,6 @@
 ### 🔴 Hard Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Interview_AI_Platform** | Open-source contribution & deployment (original by @ankurdtio). Modernized complete UI, engineered multi-model AI failover engine (Gemini Flash Lite), built 1–2 page ATS resume export, dual-token auth, and deployed live on Cloudflare Pages & Render. | [View Repo](https://github.com/poojasahuu2006-design/Interview-ai-platform) · [Live Demo](https://interview-ai-p.pages.dev/login) |
 | **WhatsApp_AI_Buddy** | Production-grade autonomous WhatsApp AI Agent & Cloud CRM SaaS. Features **sub-second AI replies**, **Google Calendar auto-booking**, live multi-device **Baileys WebSocket gateway**, real-time contact synchronization, and **MongoDB Atlas** persistence. | [View Repo](https://github.com/poojasahuu2006-design/whatsapp-buddy-web) · [Live Demo](https://whatsapp-buddy-539k.onrender.com/) |
 | **AI_House_Planner** | Intelligent 2D/3D architectural layout and floor plan generator built with **React**, **Three.js**, **Node.js**, **Express**, and **MongoDB Atlas**. | [View Repo](https://github.com/poojasahuu2006-design/AI_LAYOUT_GENERATOR) · [Live Demo](https://ai-house-planner-frontend.onrender.com/) |
 | **RAID_Storage_Simulator** | High-performance interactive simulator visualizing **RAID (0, 1, 5, 6, 10)** storage architectures, data striping, parity distribution, drive rebuilds, and fault tolerance. | [View Repo](https://github.com/poojasahuu2006-design/Raid_Simulator) · [Live Demo](https://raid-sim-v1.surge.sh/) |
@@ -26,6 +25,7 @@
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
+| **Interview_AI_Platform** | Open-source contribution & deployment (original by @ankurdtio). Modernized complete UI, engineered multi-model AI failover engine (Gemini Flash Lite), built 1–2 page ATS resume export, dual-token auth, and deployed live on Cloudflare Pages & Render. | [View Repo](https://github.com/poojasahuu2006-design/Interview-ai-platform) · [Live Demo](https://interview-ai-p.pages.dev/login) |
 | **Realtime_Tracker** | Web application built with **Node.js**, **Socket.IO**, and **Leaflet.js** that provides live location updates on an interactive map using WebSockets. | [View Repo](https://github.com/poojasahuu2006-design/Realtime_tracker_Backend_Project) · [Live Demo](https://realtime-tracker-mnfs.onrender.com/) |
 | **Beautify_Full_Stack** | Full-stack luxury boutique web app built with **React 18, Vite, Node.js, Express**, and **MongoDB Atlas** with cloud database management. | [View Repo](https://github.com/poojasahuu2006-design/beautify) · [Live Demo](https://beautify-frontend-7bq9.onrender.com/login) |
 | **Colour_Switcher_React** | Interactive dynamic color switcher application constructed with **React** and **Vite**, utilizing **useState** hooks and modern, highly reusable component architecture. | [View Repo](https://github.com/poojasahuu2006-design/Colour_Switcher_React) · [Live Demo](https://colour-switcher-react.vercel.app/) |
