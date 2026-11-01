@@ -1,11 +1,10 @@
 # Hi there, I'm Pooja Sahu 👋
 
-- 💻 **3rd-year IT student** specializing in **Full Stack Engineering, Distributed Systems & Autonomous AI Automations**.
-- 🎓 B.Tech in Information Technology at St. John College of Engineering and Management (CGPA: 10.0).
-- 🛠️ **Core Stack:** **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **TypeScript**, **Python**, **C++**, **Java**, and **Redis**.
-- 🤖 **AI & Autonomous Automations:** Production **WhatsApp AI Agents** (Baileys WebSocket gateway, Evolution API), sub-second AI auto-replies, **Google Calendar auto-scheduling**, **n8n workflows**, Webhooks, and RAG knowledge retrieval.
-- ⚙️ **Distributed & Backend Engineering:** Double-entry ledger architecture, **MongoDB ACID transactions**, **Redis job queues & workers**, API rate limiters (Token Bucket & Sliding Window), and real-time **Operational Transformation (OT) / WebSockets**.
-- 🚀 Former Frontend Web Developer Intern at Cognifyz Technologies. Passionate about architecting scalable, event-driven web ecosystems.
+-🎓 3rd-year IT student at St. John College of Engineering and Management (CGPA: 10.0).
+🛠️ Core Stack: MERN Stack, TypeScript, Python, C++, Java, Redis, and OpenAPI/Swagger.
+🤖 Autonomous AI & Automations: Production WhatsApp AI Agents (Baileys WebSockets), sub-second AI replies, Google Calendar auto-booking, and n8n workflows.
+⚙️ Backend & Distributed Systems: Double-entry ledgers (ACID), Redis job queues, API rate limiters, Real-time WebSockets (OT), and secure JWT dual-token & session architecture.
+🚀 Former Web Developer Intern at Cognifyz Technologies. Passionate about architecting scalable, event-driven backends.
 
 ---
 
