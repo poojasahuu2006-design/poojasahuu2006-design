@@ -1,7 +1,7 @@
 # Hi there, I'm Pooja Sahu 👋
 
 - 🎓 **3rd-year IT student** at St. John College of Engineering and Management (**CGPA: 10.0**).
-- 🛠️ **Core Stack:** **MERN Stack**, **TypeScript**, **Python**, **C++**, **Java**, **Redis**, and **OpenAPI/Swagger**.
+- 🛠️ **Core Stack:** **MERN Stack**,   **C++**, **Java**, **Redis**, and **OpenAPI/Swagger**.
 - 🤖 **Autonomous AI & Automations:** Production **WhatsApp AI Agents** (Baileys WebSockets), sub-second AI replies, **Google Calendar auto-booking**, and **n8n workflows**.
 - ⚙️ **Backend & Distributed Systems:** Double-entry ledgers (ACID), **Redis job queues**, API rate limiters, **Real-time WebSockets (OT)**, and **secure JWT dual-token & session architecture**.
 - 🚀 Former Web Developer Intern at Cognifyz Technologies. Passionate about architecting scalable, event-driven backends.
